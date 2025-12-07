@@ -1,0 +1,7 @@
+{
+  "name": "PestControl Pro",
+  "description": "A comprehensive management system for pest control companies including client management, contract tracking, smart scheduling, and technician portals.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
